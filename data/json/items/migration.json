@@ -1954,7 +1954,7 @@
     "id": "bag_paper_powder_small",
     "type": "MIGRATION",
     "replace": "bag_paper_powder"
-  }.
+  },
   {
     "id": "egg_lady_bug_giant",
     "type": "MIGRATION",
