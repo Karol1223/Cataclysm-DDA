@@ -1879,5 +1879,15 @@
     "id": "veh_tracker",
     "type": "MIGRATION",
     "replace": "vehicle_dashboard"
+  },
+  {
+    "id": "egg_lady_bug_giant",
+    "type": "MIGRATION",
+    "replace": "egg_lady_bug"
+  },
+  {
+    "id": "spider_egg",
+    "type": "MIGRATION",
+    "replace": "egg_spider_cellar"
   }
 ]
