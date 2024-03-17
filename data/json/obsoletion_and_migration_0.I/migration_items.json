@@ -1141,5 +1141,11 @@
     "id": "ak74",
     "type": "MIGRATION",
     "replace": "ak74_semi"
+  },
+  {
+    "id": "con_mix",
+    "type": "MIGRATION",
+    "replace": "con_mix_foldable",
+    "reset_item_vars": true
   }
 ]
